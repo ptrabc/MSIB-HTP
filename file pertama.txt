@@ -8,3 +8,4 @@ Rincian Materi Pelatihan
 7. Laravel
 8. Rest API
 9. Final Project
+commit
